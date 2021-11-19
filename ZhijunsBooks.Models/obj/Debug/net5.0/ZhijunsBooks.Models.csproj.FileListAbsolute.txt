@@ -1,0 +1,12 @@
+C:\Users\zhouz\OneDrive\St Clair College\2021Fall\ASP.NET\MVC-AS2\ZhijunsBooks.Models\bin\Debug\net5.0\ZhijunsBooks.Models.deps.json
+C:\Users\zhouz\OneDrive\St Clair College\2021Fall\ASP.NET\MVC-AS2\ZhijunsBooks.Models\bin\Debug\net5.0\ZhijunsBooks.Models.dll
+C:\Users\zhouz\OneDrive\St Clair College\2021Fall\ASP.NET\MVC-AS2\ZhijunsBooks.Models\bin\Debug\net5.0\ref\ZhijunsBooks.Models.dll
+C:\Users\zhouz\OneDrive\St Clair College\2021Fall\ASP.NET\MVC-AS2\ZhijunsBooks.Models\bin\Debug\net5.0\ZhijunsBooks.Models.pdb
+C:\Users\zhouz\OneDrive\St Clair College\2021Fall\ASP.NET\MVC-AS2\ZhijunsBooks.Models\obj\Debug\net5.0\ZhijunsBooks.Models.csproj.AssemblyReference.cache
+C:\Users\zhouz\OneDrive\St Clair College\2021Fall\ASP.NET\MVC-AS2\ZhijunsBooks.Models\obj\Debug\net5.0\ZhijunsBooks.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zhouz\OneDrive\St Clair College\2021Fall\ASP.NET\MVC-AS2\ZhijunsBooks.Models\obj\Debug\net5.0\ZhijunsBooks.Models.AssemblyInfoInputs.cache
+C:\Users\zhouz\OneDrive\St Clair College\2021Fall\ASP.NET\MVC-AS2\ZhijunsBooks.Models\obj\Debug\net5.0\ZhijunsBooks.Models.AssemblyInfo.cs
+C:\Users\zhouz\OneDrive\St Clair College\2021Fall\ASP.NET\MVC-AS2\ZhijunsBooks.Models\obj\Debug\net5.0\ZhijunsBooks.Models.csproj.CoreCompileInputs.cache
+C:\Users\zhouz\OneDrive\St Clair College\2021Fall\ASP.NET\MVC-AS2\ZhijunsBooks.Models\obj\Debug\net5.0\ZhijunsBooks.Models.dll
+C:\Users\zhouz\OneDrive\St Clair College\2021Fall\ASP.NET\MVC-AS2\ZhijunsBooks.Models\obj\Debug\net5.0\ref\ZhijunsBooks.Models.dll
+C:\Users\zhouz\OneDrive\St Clair College\2021Fall\ASP.NET\MVC-AS2\ZhijunsBooks.Models\obj\Debug\net5.0\ZhijunsBooks.Models.pdb

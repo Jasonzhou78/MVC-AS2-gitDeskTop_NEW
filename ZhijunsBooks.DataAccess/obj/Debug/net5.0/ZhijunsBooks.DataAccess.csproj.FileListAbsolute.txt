@@ -1,0 +1,17 @@
+C:\Users\zhouz\OneDrive\St Clair College\2021Fall\ASP.NET\MVC-AS2\ZhijunsBooks.DataAccess\bin\Debug\net5.0\ZhijunsBooks.DataAccess.deps.json
+C:\Users\zhouz\OneDrive\St Clair College\2021Fall\ASP.NET\MVC-AS2\ZhijunsBooks.DataAccess\bin\Debug\net5.0\ZhijunsBooks.DataAccess.dll
+C:\Users\zhouz\OneDrive\St Clair College\2021Fall\ASP.NET\MVC-AS2\ZhijunsBooks.DataAccess\bin\Debug\net5.0\ref\ZhijunsBooks.DataAccess.dll
+C:\Users\zhouz\OneDrive\St Clair College\2021Fall\ASP.NET\MVC-AS2\ZhijunsBooks.DataAccess\bin\Debug\net5.0\ZhijunsBooks.DataAccess.pdb
+C:\Users\zhouz\OneDrive\St Clair College\2021Fall\ASP.NET\MVC-AS2\ZhijunsBooks.DataAccess\bin\Debug\net5.0\ZhijunsBooks.Models.dll
+C:\Users\zhouz\OneDrive\St Clair College\2021Fall\ASP.NET\MVC-AS2\ZhijunsBooks.DataAccess\bin\Debug\net5.0\ZhijunsBooks.Utility.dll
+C:\Users\zhouz\OneDrive\St Clair College\2021Fall\ASP.NET\MVC-AS2\ZhijunsBooks.DataAccess\bin\Debug\net5.0\ZhijunsBooks.Models.pdb
+C:\Users\zhouz\OneDrive\St Clair College\2021Fall\ASP.NET\MVC-AS2\ZhijunsBooks.DataAccess\bin\Debug\net5.0\ZhijunsBooks.Utility.pdb
+C:\Users\zhouz\OneDrive\St Clair College\2021Fall\ASP.NET\MVC-AS2\ZhijunsBooks.DataAccess\obj\Debug\net5.0\ZhijunsBooks.DataAccess.csproj.AssemblyReference.cache
+C:\Users\zhouz\OneDrive\St Clair College\2021Fall\ASP.NET\MVC-AS2\ZhijunsBooks.DataAccess\obj\Debug\net5.0\ZhijunsBooks.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zhouz\OneDrive\St Clair College\2021Fall\ASP.NET\MVC-AS2\ZhijunsBooks.DataAccess\obj\Debug\net5.0\ZhijunsBooks.DataAccess.AssemblyInfoInputs.cache
+C:\Users\zhouz\OneDrive\St Clair College\2021Fall\ASP.NET\MVC-AS2\ZhijunsBooks.DataAccess\obj\Debug\net5.0\ZhijunsBooks.DataAccess.AssemblyInfo.cs
+C:\Users\zhouz\OneDrive\St Clair College\2021Fall\ASP.NET\MVC-AS2\ZhijunsBooks.DataAccess\obj\Debug\net5.0\ZhijunsBooks.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\zhouz\OneDrive\St Clair College\2021Fall\ASP.NET\MVC-AS2\ZhijunsBooks.DataAccess\obj\Debug\net5.0\ZhijunsBooks.DataAccess.csproj.CopyComplete
+C:\Users\zhouz\OneDrive\St Clair College\2021Fall\ASP.NET\MVC-AS2\ZhijunsBooks.DataAccess\obj\Debug\net5.0\ZhijunsBooks.DataAccess.dll
+C:\Users\zhouz\OneDrive\St Clair College\2021Fall\ASP.NET\MVC-AS2\ZhijunsBooks.DataAccess\obj\Debug\net5.0\ref\ZhijunsBooks.DataAccess.dll
+C:\Users\zhouz\OneDrive\St Clair College\2021Fall\ASP.NET\MVC-AS2\ZhijunsBooks.DataAccess\obj\Debug\net5.0\ZhijunsBooks.DataAccess.pdb
