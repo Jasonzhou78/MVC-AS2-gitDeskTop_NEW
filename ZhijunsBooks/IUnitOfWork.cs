@@ -1,6 +1,6 @@
 ﻿namespace ZhijunsBooks
 {
-    internal interface IUnitOfWork
+    public interface IUnitOfWork
     {
     }
 }
