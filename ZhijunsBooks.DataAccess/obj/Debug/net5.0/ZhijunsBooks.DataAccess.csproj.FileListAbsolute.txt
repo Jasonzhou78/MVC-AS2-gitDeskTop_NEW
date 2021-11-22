@@ -32,3 +32,20 @@ C:\Users\zhouz\OneDrive\St Clair College\2021Fall\ASP.NET\MVC-AS2-gitDeskTop\Zhi
 C:\Users\zhouz\OneDrive\St Clair College\2021Fall\ASP.NET\MVC-AS2-gitDeskTop\ZhijunsBooks.DataAccess\obj\Debug\net5.0\ZhijunsBooks.DataAccess.dll
 C:\Users\zhouz\OneDrive\St Clair College\2021Fall\ASP.NET\MVC-AS2-gitDeskTop\ZhijunsBooks.DataAccess\obj\Debug\net5.0\ref\ZhijunsBooks.DataAccess.dll
 C:\Users\zhouz\OneDrive\St Clair College\2021Fall\ASP.NET\MVC-AS2-gitDeskTop\ZhijunsBooks.DataAccess\obj\Debug\net5.0\ZhijunsBooks.DataAccess.pdb
+C:\Users\W0728193\Source\Repos\MVC-AS2-gitDeskTop_NEW\ZhijunsBooks.DataAccess\bin\Debug\net5.0\ZhijunsBooks.DataAccess.deps.json
+C:\Users\W0728193\Source\Repos\MVC-AS2-gitDeskTop_NEW\ZhijunsBooks.DataAccess\bin\Debug\net5.0\ZhijunsBooks.DataAccess.dll
+C:\Users\W0728193\Source\Repos\MVC-AS2-gitDeskTop_NEW\ZhijunsBooks.DataAccess\bin\Debug\net5.0\ref\ZhijunsBooks.DataAccess.dll
+C:\Users\W0728193\Source\Repos\MVC-AS2-gitDeskTop_NEW\ZhijunsBooks.DataAccess\bin\Debug\net5.0\ZhijunsBooks.DataAccess.pdb
+C:\Users\W0728193\Source\Repos\MVC-AS2-gitDeskTop_NEW\ZhijunsBooks.DataAccess\bin\Debug\net5.0\ZhijunsBooks.Models.dll
+C:\Users\W0728193\Source\Repos\MVC-AS2-gitDeskTop_NEW\ZhijunsBooks.DataAccess\bin\Debug\net5.0\ZhijunsBooks.Utility.dll
+C:\Users\W0728193\Source\Repos\MVC-AS2-gitDeskTop_NEW\ZhijunsBooks.DataAccess\bin\Debug\net5.0\ZhijunsBooks.Models.pdb
+C:\Users\W0728193\Source\Repos\MVC-AS2-gitDeskTop_NEW\ZhijunsBooks.DataAccess\bin\Debug\net5.0\ZhijunsBooks.Utility.pdb
+C:\Users\W0728193\Source\Repos\MVC-AS2-gitDeskTop_NEW\ZhijunsBooks.DataAccess\obj\Debug\net5.0\ZhijunsBooks.DataAccess.csproj.AssemblyReference.cache
+C:\Users\W0728193\Source\Repos\MVC-AS2-gitDeskTop_NEW\ZhijunsBooks.DataAccess\obj\Debug\net5.0\ZhijunsBooks.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W0728193\Source\Repos\MVC-AS2-gitDeskTop_NEW\ZhijunsBooks.DataAccess\obj\Debug\net5.0\ZhijunsBooks.DataAccess.AssemblyInfoInputs.cache
+C:\Users\W0728193\Source\Repos\MVC-AS2-gitDeskTop_NEW\ZhijunsBooks.DataAccess\obj\Debug\net5.0\ZhijunsBooks.DataAccess.AssemblyInfo.cs
+C:\Users\W0728193\Source\Repos\MVC-AS2-gitDeskTop_NEW\ZhijunsBooks.DataAccess\obj\Debug\net5.0\ZhijunsBooks.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\W0728193\Source\Repos\MVC-AS2-gitDeskTop_NEW\ZhijunsBooks.DataAccess\obj\Debug\net5.0\ZhijunsBooks.DataAccess.csproj.CopyComplete
+C:\Users\W0728193\Source\Repos\MVC-AS2-gitDeskTop_NEW\ZhijunsBooks.DataAccess\obj\Debug\net5.0\ZhijunsBooks.DataAccess.dll
+C:\Users\W0728193\Source\Repos\MVC-AS2-gitDeskTop_NEW\ZhijunsBooks.DataAccess\obj\Debug\net5.0\ref\ZhijunsBooks.DataAccess.dll
+C:\Users\W0728193\Source\Repos\MVC-AS2-gitDeskTop_NEW\ZhijunsBooks.DataAccess\obj\Debug\net5.0\ZhijunsBooks.DataAccess.pdb

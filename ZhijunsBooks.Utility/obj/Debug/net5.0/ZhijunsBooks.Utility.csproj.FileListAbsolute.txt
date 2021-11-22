@@ -10,3 +10,15 @@ C:\Users\zhouz\OneDrive\St Clair College\2021Fall\ASP.NET\MVC-AS2\ZhijunsBooks.U
 C:\Users\zhouz\OneDrive\St Clair College\2021Fall\ASP.NET\MVC-AS2\ZhijunsBooks.Utility\obj\Debug\net5.0\ZhijunsBooks.Utility.dll
 C:\Users\zhouz\OneDrive\St Clair College\2021Fall\ASP.NET\MVC-AS2\ZhijunsBooks.Utility\obj\Debug\net5.0\ref\ZhijunsBooks.Utility.dll
 C:\Users\zhouz\OneDrive\St Clair College\2021Fall\ASP.NET\MVC-AS2\ZhijunsBooks.Utility\obj\Debug\net5.0\ZhijunsBooks.Utility.pdb
+C:\Users\W0728193\Source\Repos\MVC-AS2-gitDeskTop_NEW\ZhijunsBooks.Utility\bin\Debug\net5.0\ZhijunsBooks.Utility.deps.json
+C:\Users\W0728193\Source\Repos\MVC-AS2-gitDeskTop_NEW\ZhijunsBooks.Utility\bin\Debug\net5.0\ZhijunsBooks.Utility.dll
+C:\Users\W0728193\Source\Repos\MVC-AS2-gitDeskTop_NEW\ZhijunsBooks.Utility\bin\Debug\net5.0\ref\ZhijunsBooks.Utility.dll
+C:\Users\W0728193\Source\Repos\MVC-AS2-gitDeskTop_NEW\ZhijunsBooks.Utility\bin\Debug\net5.0\ZhijunsBooks.Utility.pdb
+C:\Users\W0728193\Source\Repos\MVC-AS2-gitDeskTop_NEW\ZhijunsBooks.Utility\obj\Debug\net5.0\ZhijunsBooks.Utility.csproj.AssemblyReference.cache
+C:\Users\W0728193\Source\Repos\MVC-AS2-gitDeskTop_NEW\ZhijunsBooks.Utility\obj\Debug\net5.0\ZhijunsBooks.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W0728193\Source\Repos\MVC-AS2-gitDeskTop_NEW\ZhijunsBooks.Utility\obj\Debug\net5.0\ZhijunsBooks.Utility.AssemblyInfoInputs.cache
+C:\Users\W0728193\Source\Repos\MVC-AS2-gitDeskTop_NEW\ZhijunsBooks.Utility\obj\Debug\net5.0\ZhijunsBooks.Utility.AssemblyInfo.cs
+C:\Users\W0728193\Source\Repos\MVC-AS2-gitDeskTop_NEW\ZhijunsBooks.Utility\obj\Debug\net5.0\ZhijunsBooks.Utility.csproj.CoreCompileInputs.cache
+C:\Users\W0728193\Source\Repos\MVC-AS2-gitDeskTop_NEW\ZhijunsBooks.Utility\obj\Debug\net5.0\ZhijunsBooks.Utility.dll
+C:\Users\W0728193\Source\Repos\MVC-AS2-gitDeskTop_NEW\ZhijunsBooks.Utility\obj\Debug\net5.0\ref\ZhijunsBooks.Utility.dll
+C:\Users\W0728193\Source\Repos\MVC-AS2-gitDeskTop_NEW\ZhijunsBooks.Utility\obj\Debug\net5.0\ZhijunsBooks.Utility.pdb
