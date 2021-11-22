@@ -907,3 +907,5 @@ C:\Users\W0728193\Source\Repos\MVC-AS2-gitDeskTop_NEW\ZhijunsBooks\obj\Debug\net
 C:\Users\W0728193\Source\Repos\MVC-AS2-gitDeskTop_NEW\ZhijunsBooks\obj\Debug\net5.0\ref\ZhijunsBooks.dll
 C:\Users\W0728193\Source\Repos\MVC-AS2-gitDeskTop_NEW\ZhijunsBooks\obj\Debug\net5.0\ZhijunsBooks.pdb
 C:\Users\W0728193\Source\Repos\MVC-AS2-gitDeskTop_NEW\ZhijunsBooks\obj\Debug\net5.0\ZhijunsBooks.genruntimeconfig.cache
+C:\Users\W0728193\Source\Repos\MVC-AS2-gitDeskTop_NEW\ZhijunsBooks\obj\Debug\net5.0\Razor\Areas\Admin\Views\Category\Upsert.cshtml.g.cs
+C:\Users\W0728193\Source\Repos\MVC-AS2-gitDeskTop_NEW\ZhijunsBooks\obj\Debug\net5.0\Razor\Views\Shared\_CreateAndBackToListButton.cshtml.g.cs

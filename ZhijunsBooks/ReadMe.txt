@@ -137,6 +137,12 @@ in the local , but no such file in the visual studio 2019. and the interface has
 20211122
 1431
 --the dropdown menu still does not work. Go back to check link files (css files and js files)
+--temporarily skip the dropdown menu
+1510
+--add partial view files called _CreateAndBackToListButton.cshtml and _EditAndBackToListButton.cshtml
+--modify code in both files
+--modify code in the Upsert.cshtml file
+
 
 
 
