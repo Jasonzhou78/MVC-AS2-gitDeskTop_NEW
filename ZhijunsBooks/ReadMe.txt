@@ -129,6 +129,16 @@ IUnitOfWork files, and IUnitOfWork does not contain Category
 --change the index.cshtml
 
 
+2021-11-20
+2200
+--Check the folder in the ZhijunsBook in local computer, compared with the folder in the vs studio is different. There is a file called iunitofwork in the folder
+in the local , but no such file in the visual studio 2019. and the interface has accessibility of internal. I deleted this file, and every error gone.
+
+20211122
+1431
+--the dropdown menu still does not work. Go back to check link files (css files and js files)
+
+
 
 
 
