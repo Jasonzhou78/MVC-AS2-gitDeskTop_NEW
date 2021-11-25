@@ -17,17 +17,17 @@ namespace ZhijunsBooks.Areas.Admin.Controllers
             _unitOfWork = unitOfWork;
         }
 
-       // public CategoryController()
-        //{
-        //}
+       //public CategoryController()
+       // {
+       // }
 
         public IActionResult Index()
         {
             return View();
         }
-        public IActionResult Upsert(int? id)   //actioin method for Upsert
+        public IActionResult Upsert(int? id)   //action method for Upsert
         {
-            Category category = new Category();
+            Category category = new Category(); //using ZhijunsBook.Models
             if (id == null)
             {
                 //this is for create
@@ -41,14 +41,47 @@ namespace ZhijunsBooks.Areas.Admin.Controllers
             }
             return View();
         }
+        //use HTTP POST to define the post-action method
+        #region API CALLS
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public IActionResult Upsert(Category category)
+        {
+            if (ModelState.IsValid) //checks all validation in the model(e.g. Name required) to increase security
+            {
+                if (category.Id == 0)
+                {
+                    _unitOfWork.Category.Add(category);
+                }
+                else
+                {
+                    _unitOfWork.Category.Update(category);
+                }
+                _unitOfWork.Save();
+                return RedirectToAction(nameof(Index)); // to see all the categories
+            }
+            return View(category);
+        }
         //API calls here
         #region API CALLS
         [HttpGet]
-        public IActionResult GetAll()
+        public IActionResult GetAll() 
         {
-            return NotFound();
-            var allObj = _unitOfWork.Category.GetAll();
-            return Json(new { data = allObj });
+            //return NotFound();
+            var allOjb = _unitOfWork.Category.GetAll();
+            return Json(new { data = allOjb });
+        }
+        [HttpDelete]
+        public IActionResult Delete(int id)
+        {
+            var objFromDb = _unitOfWork.Category.Get(id);
+            if (objFromDb == null)
+            {
+                return Json(new { success = false, message = "Error while deleting" });
+            }
+            _unitOfWork.Category.Remove(objFromDb);
+            _unitOfWork.Save();
+            return Json(new { success = true, message = "Delete successful" });
         }
         #endregion
     }
