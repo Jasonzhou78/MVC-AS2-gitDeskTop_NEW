@@ -22,3 +22,15 @@ C:\Users\W0728193\Source\Repos\MVC-AS2-gitDeskTop_NEW\ZhijunsBooks.Utility\obj\D
 C:\Users\W0728193\Source\Repos\MVC-AS2-gitDeskTop_NEW\ZhijunsBooks.Utility\obj\Debug\net5.0\ZhijunsBooks.Utility.dll
 C:\Users\W0728193\Source\Repos\MVC-AS2-gitDeskTop_NEW\ZhijunsBooks.Utility\obj\Debug\net5.0\ref\ZhijunsBooks.Utility.dll
 C:\Users\W0728193\Source\Repos\MVC-AS2-gitDeskTop_NEW\ZhijunsBooks.Utility\obj\Debug\net5.0\ZhijunsBooks.Utility.pdb
+C:\Users\zhouz\Source\Repos\MVC-AS2-gitDeskTop_NEW\ZhijunsBooks.Utility\bin\Debug\net5.0\ZhijunsBooks.Utility.deps.json
+C:\Users\zhouz\Source\Repos\MVC-AS2-gitDeskTop_NEW\ZhijunsBooks.Utility\bin\Debug\net5.0\ZhijunsBooks.Utility.dll
+C:\Users\zhouz\Source\Repos\MVC-AS2-gitDeskTop_NEW\ZhijunsBooks.Utility\bin\Debug\net5.0\ref\ZhijunsBooks.Utility.dll
+C:\Users\zhouz\Source\Repos\MVC-AS2-gitDeskTop_NEW\ZhijunsBooks.Utility\bin\Debug\net5.0\ZhijunsBooks.Utility.pdb
+C:\Users\zhouz\Source\Repos\MVC-AS2-gitDeskTop_NEW\ZhijunsBooks.Utility\obj\Debug\net5.0\ZhijunsBooks.Utility.csproj.AssemblyReference.cache
+C:\Users\zhouz\Source\Repos\MVC-AS2-gitDeskTop_NEW\ZhijunsBooks.Utility\obj\Debug\net5.0\ZhijunsBooks.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zhouz\Source\Repos\MVC-AS2-gitDeskTop_NEW\ZhijunsBooks.Utility\obj\Debug\net5.0\ZhijunsBooks.Utility.AssemblyInfoInputs.cache
+C:\Users\zhouz\Source\Repos\MVC-AS2-gitDeskTop_NEW\ZhijunsBooks.Utility\obj\Debug\net5.0\ZhijunsBooks.Utility.AssemblyInfo.cs
+C:\Users\zhouz\Source\Repos\MVC-AS2-gitDeskTop_NEW\ZhijunsBooks.Utility\obj\Debug\net5.0\ZhijunsBooks.Utility.csproj.CoreCompileInputs.cache
+C:\Users\zhouz\Source\Repos\MVC-AS2-gitDeskTop_NEW\ZhijunsBooks.Utility\obj\Debug\net5.0\ZhijunsBooks.Utility.dll
+C:\Users\zhouz\Source\Repos\MVC-AS2-gitDeskTop_NEW\ZhijunsBooks.Utility\obj\Debug\net5.0\ref\ZhijunsBooks.Utility.dll
+C:\Users\zhouz\Source\Repos\MVC-AS2-gitDeskTop_NEW\ZhijunsBooks.Utility\obj\Debug\net5.0\ZhijunsBooks.Utility.pdb

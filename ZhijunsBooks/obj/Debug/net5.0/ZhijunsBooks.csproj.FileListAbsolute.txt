@@ -909,3 +909,15 @@ C:\Users\W0728193\Source\Repos\MVC-AS2-gitDeskTop_NEW\ZhijunsBooks\obj\Debug\net
 C:\Users\W0728193\Source\Repos\MVC-AS2-gitDeskTop_NEW\ZhijunsBooks\obj\Debug\net5.0\ZhijunsBooks.genruntimeconfig.cache
 C:\Users\W0728193\Source\Repos\MVC-AS2-gitDeskTop_NEW\ZhijunsBooks\obj\Debug\net5.0\Razor\Areas\Admin\Views\Category\Upsert.cshtml.g.cs
 C:\Users\W0728193\Source\Repos\MVC-AS2-gitDeskTop_NEW\ZhijunsBooks\obj\Debug\net5.0\Razor\Views\Shared\_CreateAndBackToListButton.cshtml.g.cs
+C:\Users\zhouz\Source\Repos\MVC-AS2-gitDeskTop_NEW\ZhijunsBooks\obj\Debug\net5.0\ZhijunsBooks.csproj.AssemblyReference.cache
+C:\Users\zhouz\Source\Repos\MVC-AS2-gitDeskTop_NEW\ZhijunsBooks\obj\Debug\net5.0\ZhijunsBooks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zhouz\Source\Repos\MVC-AS2-gitDeskTop_NEW\ZhijunsBooks\obj\Debug\net5.0\ZhijunsBooks.AssemblyInfoInputs.cache
+C:\Users\zhouz\Source\Repos\MVC-AS2-gitDeskTop_NEW\ZhijunsBooks\obj\Debug\net5.0\ZhijunsBooks.AssemblyInfo.cs
+C:\Users\zhouz\Source\Repos\MVC-AS2-gitDeskTop_NEW\ZhijunsBooks\obj\Debug\net5.0\ZhijunsBooks.csproj.CoreCompileInputs.cache
+C:\Users\zhouz\Source\Repos\MVC-AS2-gitDeskTop_NEW\ZhijunsBooks\obj\Debug\net5.0\ZhijunsBooks.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\zhouz\Source\Repos\MVC-AS2-gitDeskTop_NEW\ZhijunsBooks\obj\Debug\net5.0\ZhijunsBooks.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\zhouz\Source\Repos\MVC-AS2-gitDeskTop_NEW\ZhijunsBooks\obj\Debug\net5.0\ZhijunsBooks.RazorAssemblyInfo.cache
+C:\Users\zhouz\Source\Repos\MVC-AS2-gitDeskTop_NEW\ZhijunsBooks\obj\Debug\net5.0\ZhijunsBooks.RazorAssemblyInfo.cs
+C:\Users\zhouz\Source\Repos\MVC-AS2-gitDeskTop_NEW\ZhijunsBooks\obj\Debug\net5.0\ZhijunsBooks.dll
+C:\Users\zhouz\Source\Repos\MVC-AS2-gitDeskTop_NEW\ZhijunsBooks\obj\Debug\net5.0\ref\ZhijunsBooks.dll
+C:\Users\zhouz\Source\Repos\MVC-AS2-gitDeskTop_NEW\ZhijunsBooks\obj\Debug\net5.0\ZhijunsBooks.pdb
