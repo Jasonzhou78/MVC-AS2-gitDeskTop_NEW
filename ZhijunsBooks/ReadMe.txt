@@ -144,6 +144,23 @@ in the local , but no such file in the visual studio 2019. and the interface has
 --modify code in the Upsert.cshtml file
 
 
+20211125
+18:00
+--continue to modify file CategoryController.cs
+--after added delete method and other modification, there is an error:
+   end region expected in the file (last curly brace shows an error), but the file seems the same as
+   the teacher's work
+--built, failed
+
+1906 modify file category.js
+--add function(Delete) and two method for error or success message
+--built, two errors, one is from the last step
+--one error was excluded by delete an extra void save() function in the file IUnitOfWork.cs
+--rebuilt, still one error thus failed.
+--commit and push to github
+
+
+
 
 
 
