@@ -921,3 +921,15 @@ C:\Users\zhouz\Source\Repos\MVC-AS2-gitDeskTop_NEW\ZhijunsBooks\obj\Debug\net5.0
 C:\Users\zhouz\Source\Repos\MVC-AS2-gitDeskTop_NEW\ZhijunsBooks\obj\Debug\net5.0\ZhijunsBooks.dll
 C:\Users\zhouz\Source\Repos\MVC-AS2-gitDeskTop_NEW\ZhijunsBooks\obj\Debug\net5.0\ref\ZhijunsBooks.dll
 C:\Users\zhouz\Source\Repos\MVC-AS2-gitDeskTop_NEW\ZhijunsBooks\obj\Debug\net5.0\ZhijunsBooks.pdb
+C:\Users\W0728193\Source\Repos\MVC-AS2\ZhijunsBooks\obj\Debug\net5.0\ZhijunsBooks.csproj.AssemblyReference.cache
+C:\Users\W0728193\Source\Repos\MVC-AS2\ZhijunsBooks\obj\Debug\net5.0\ZhijunsBooks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W0728193\Source\Repos\MVC-AS2\ZhijunsBooks\obj\Debug\net5.0\ZhijunsBooks.AssemblyInfoInputs.cache
+C:\Users\W0728193\Source\Repos\MVC-AS2\ZhijunsBooks\obj\Debug\net5.0\ZhijunsBooks.AssemblyInfo.cs
+C:\Users\W0728193\Source\Repos\MVC-AS2\ZhijunsBooks\obj\Debug\net5.0\ZhijunsBooks.csproj.CoreCompileInputs.cache
+C:\Users\W0728193\Source\Repos\MVC-AS2\ZhijunsBooks\obj\Debug\net5.0\ZhijunsBooks.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\W0728193\Source\Repos\MVC-AS2\ZhijunsBooks\obj\Debug\net5.0\ZhijunsBooks.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\W0728193\Source\Repos\MVC-AS2\ZhijunsBooks\obj\Debug\net5.0\ZhijunsBooks.RazorAssemblyInfo.cache
+C:\Users\W0728193\Source\Repos\MVC-AS2\ZhijunsBooks\obj\Debug\net5.0\ZhijunsBooks.RazorAssemblyInfo.cs
+C:\Users\W0728193\Source\Repos\MVC-AS2\ZhijunsBooks\obj\Debug\net5.0\ZhijunsBooks.dll
+C:\Users\W0728193\Source\Repos\MVC-AS2\ZhijunsBooks\obj\Debug\net5.0\ref\ZhijunsBooks.dll
+C:\Users\W0728193\Source\Repos\MVC-AS2\ZhijunsBooks\obj\Debug\net5.0\ZhijunsBooks.pdb
