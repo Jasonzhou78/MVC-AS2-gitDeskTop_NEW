@@ -63,6 +63,7 @@ namespace ZhijunsBooks.Areas.Admin.Controllers
             return View(category);
         }
         //API calls here
+        #endregion
         #region API CALLS
         [HttpGet]
         public IActionResult GetAll() 
