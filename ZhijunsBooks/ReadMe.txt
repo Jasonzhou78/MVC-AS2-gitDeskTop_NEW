@@ -187,6 +187,9 @@ ZhijunsBook.DataAccess
 --check tables, there are two tables added in the database(CoverType, and Product)
 --20211130202853_InitialCreate.cs in the Migration folder produced
 --commit the changes and push to github.com, save changes.
+--built it, succeeded.
+
+
 
 
 
