@@ -177,9 +177,15 @@ is different and replace Category with CoverType
 --update the IUnitofWork file by adding a property of CoverType
 --migration and update, but I chose the default folder (ZhijunsBook) by mistake
 --did not commit the change, I exited the program without saving, deleted the local
-files,-
+files,
+--double check CoverType file and related files
 --roclone from github, redo migration and update the database under the project of 
-ZhijunsBook.DataAccess using 
+ZhijunsBook.DataAccess
+--innitiate the nuget manage console
+-- Add-Migration InitialCreate, succeeded
+--Update-Database, failed, it says object CoverType existed
+--check tables, there are two tables added in the database(CoverType, and Product)
+--20211130202853_InitialCreate.cs in the Migration folder produced
 
 
 
