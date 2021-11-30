@@ -175,6 +175,12 @@ is different and replace Category with CoverType
 --updated UnitOfWork.cs, but there is an error under the type(or variable) CoverType
 --the error is gone when public ICoverTypeRepository CoverType { get; private set; } was added
 --update the IUnitofWork file by adding a property of CoverType
+--migration and update, but I chose the default folder (ZhijunsBook) by mistake
+--did not commit the change, I exited the program without saving, deleted the local
+files,-
+--roclone from github, redo migration and update the database under the project of 
+ZhijunsBook.DataAccess using 
+
 
 
 
