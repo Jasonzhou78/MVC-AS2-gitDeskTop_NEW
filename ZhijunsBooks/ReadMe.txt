@@ -174,7 +174,7 @@ is different and replace Category with CoverType
 --updated these files
 --updated UnitOfWork.cs, but there is an error under the type(or variable) CoverType
 --the error is gone when public ICoverTypeRepository CoverType { get; private set; } was added
-
+--update the IUnitofWork file by adding a property of CoverType
 
 
 
