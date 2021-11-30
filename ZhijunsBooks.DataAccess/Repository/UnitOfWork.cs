@@ -6,6 +6,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using ZhijunsBooks.Models;
 
 namespace ZhijunsBooks.DataAccess.Repository
 {
@@ -16,6 +17,7 @@ namespace ZhijunsBooks.DataAccess.Repository
         {
             _db = db;
             Category = new CategoryRepository(_db);
+            CoverType = new CoverTypeRepository(_db);
             SP_Call = new SP_Call(_db);
         }
         public ICategoryRepository Category { get; private set; }

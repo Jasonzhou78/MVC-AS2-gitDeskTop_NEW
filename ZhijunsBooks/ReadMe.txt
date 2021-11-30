@@ -164,6 +164,15 @@ in the local , but no such file in the visual studio 2019. and the interface has
 --updating files by committing changes
 --
 
+1320 start working the section 1 part 3
+--add a new class Product.cs in the Model folder
+--update the file with given codes
+--update codes in the file ApplicationDbContext.cs under the folder .DataAccess
+--add CoverType.cs under the folder .Model, the codes are very similar to Category.cs except name
+is different and replace Category with CoverType
+
+
+
 
 
 
