@@ -159,6 +159,11 @@ in the local , but no such file in the visual studio 2019. and the interface has
 --rebuilt, still one error thus failed.
 --commit and push to github
 
+20211130
+1300 updating local files by clone github files
+--updating files by committing changes
+--
+
 
 
 
