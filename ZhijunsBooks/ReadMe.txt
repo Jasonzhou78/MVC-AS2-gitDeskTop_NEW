@@ -170,7 +170,10 @@ in the local , but no such file in the visual studio 2019. and the interface has
 --update codes in the file ApplicationDbContext.cs under the folder .DataAccess
 --add CoverType.cs under the folder .Model, the codes are very similar to Category.cs except name
 is different and replace Category with CoverType
-
+--add CoverType.cs, CoverTypeRepository, ICoverTypeRepository.cs files
+--updated these files
+--updated UnitOfWork.cs, but there is an error under the type(or variable) CoverType
+--the error is gone when public ICoverTypeRepository CoverType { get; private set; } was added
 
 
 

@@ -21,6 +21,7 @@ namespace ZhijunsBooks.DataAccess.Repository
             SP_Call = new SP_Call(_db);
         }
         public ICategoryRepository Category { get; private set; }
+        public ICoverTypeRepository CoverType { get; private set; }
         public ISP_Call SP_Call { get; private set; }
         public void Dispose()
         {
