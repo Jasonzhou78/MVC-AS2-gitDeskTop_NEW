@@ -198,6 +198,7 @@ ZhijunsBook.DataAccess
 --Add-Migration InitialCreate, succeeded
 --Update-Database, succeeded
 --check Product.db in SQL explorer, the field title, author, and ISBN have been changed to not null
+--rebuild the app, succeeded
 --commit the changes and push to github
 
 
