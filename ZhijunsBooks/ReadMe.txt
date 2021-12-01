@@ -225,6 +225,10 @@ CategoryController.cs
 --appended region section to the end of ProductController.cs
 --rebuilt the app, succeeded.
 
+2318
+--add new js files (CoverType and Product by copy category.js) under wwwroot/js folder and made changes
+--add product link in the _layout.cshtml
+--build it, succeeded. Save it, commit and push to github
 
 
 
