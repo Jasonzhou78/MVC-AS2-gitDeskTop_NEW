@@ -236,9 +236,10 @@ CategoryController.cs
 (copy code from FILES and added the rest of code from slides)
 --Built it, succeeded, commit it, push to github
 
-0015
+0015 Finishing the section 3 of part 3
 --come back to ProductController.cs
 --modify it, rebuild, succeeded
+--
 
 
 
