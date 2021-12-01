@@ -230,6 +230,15 @@ CategoryController.cs
 --add product link in the _layout.cshtml
 --build it, succeeded. Save it, commit and push to github
 
+2355
+--create CoverType folder, Product folder in the view folder, and index.cshtml to it.
+--add Upsert.cshtml to Product folder in Views and modify the file according lecture slides
+(copy code from FILES and added the rest of code from slides)
+--Built it, succeeded, commit it, push to github
+--
+
+
+
 
 
 
