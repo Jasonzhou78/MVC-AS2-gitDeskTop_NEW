@@ -201,8 +201,14 @@ ZhijunsBook.DataAccess
 --rebuild the app, succeeded
 --commit the changes and push to github
 
-
-
+2015 work on the Product, IProductRepository, etc
+--Add Product to the Repository. I don't understand where the file should be added thus it is skipped
+--IProductRepository was added and the codes were updated according to ICategoryRepository.cs
+--ProductRepository class was added and codes were modified according to teachers code.
+--open UnitOfWork.cs file,add line21 (Product = new ProductRepository(_db);) and line26(public IProductRepository Product { get; private set; })
+--open IUnitOfWork.cs file, add IProductRepository Product { get; }
+--save it, build it, succeeded.
+--commit and push to github
 
 
 
