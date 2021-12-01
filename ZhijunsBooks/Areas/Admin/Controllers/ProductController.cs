@@ -55,5 +55,27 @@ namespace ZhijunsBooks.Areas.Admin.Controllers
         //    return View(productVM);
 
         //}
+        //API calls here
+        #region API CALLS
+        [HttpGet]
+        public IActionResult GetAll()
+        {
+            //return NotFound();
+            var allObj = _unitOfWork.Product.GetAll(includeProperties: "Category, coverType");
+            return Json(new { data = allObj });
+        }
+        [HttpDelete]
+        public IActionResult Delete(int id)
+        {
+            var objFromDb = _unitOfWork.Product.Get(id);
+            if (objFromDb == null)
+            {
+                return Json(new { success = false, message = "Error while deleting" });
+            }
+            _unitOfWork.Product.Remove(objFromDb);
+            _unitOfWork.Save();
+            return Json(new { success = true, message = "Delete succefully" });
+        }
+        #endregion
     }
 }

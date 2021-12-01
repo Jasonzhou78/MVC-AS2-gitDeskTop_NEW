@@ -222,6 +222,8 @@ CategoryController.cs
 --modify the codes in the ProductController.cs
 --build it, succeeded
 --comment out the Upsert method and rebuilt,succeeded.
+--appended region section to the end of ProductController.cs
+--rebuilt the app, succeeded.
 
 
 
