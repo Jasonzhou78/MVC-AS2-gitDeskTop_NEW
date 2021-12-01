@@ -221,6 +221,7 @@ CategoryController.cs
 --open the file.
 --modify the codes in the ProductController.cs
 --build it, succeeded
+--comment out the Upsert method and rebuilt,succeeded.
 
 
 
