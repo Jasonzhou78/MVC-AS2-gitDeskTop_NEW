@@ -1827,3 +1827,5 @@ E:\MVC-AS2-NEW\ZhijunsBooks\obj\Debug\net5.0\ZhijunsBooks.dll
 E:\MVC-AS2-NEW\ZhijunsBooks\obj\Debug\net5.0\ref\ZhijunsBooks.dll
 E:\MVC-AS2-NEW\ZhijunsBooks\obj\Debug\net5.0\ZhijunsBooks.pdb
 E:\MVC-AS2-NEW\ZhijunsBooks\obj\Debug\net5.0\ZhijunsBooks.genruntimeconfig.cache
+E:\MVC-AS2-NEW\ZhijunsBooks\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\MVC-AS2-NEW\ZhijunsBooks\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll

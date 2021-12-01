@@ -210,6 +210,14 @@ ZhijunsBook.DataAccess
 --save it, build it, succeeded.
 --commit and push to github
 
+2030 start working on part 3 section 2 (3.2 Product CRUD(2))
+--add CoverTypeController.cs in Area/Admin/Controllers, and modified the file according to 
+CategoryController.cs
+--add ProductController.cs according to lecture
+--add a ProductVM.cs file under .Models/ViewModels
+--save and build successfully, commit and push to github
+
+
 
 
 
