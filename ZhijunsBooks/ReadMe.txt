@@ -179,7 +179,7 @@ is different and replace Category with CoverType
 --did not commit the change, I exited the program without saving, deleted the local
 files,
 --double check CoverType file and related files
---roclone from github, redo migration and update the database under the project of 
+--reclone from github, redo migration and update the database under the project of 
 ZhijunsBook.DataAccess
 --innitiate the nuget manage console
 -- Add-Migration InitialCreate, succeeded
@@ -188,6 +188,17 @@ ZhijunsBook.DataAccess
 --20211130202853_InitialCreate.cs in the Migration folder produced
 --commit the changes and push to github.com, save changes.
 --built it, succeeded.
+
+1840 redo the dropmenu
+--update _layout.cshtml file, the dropdow menu works now.
+--update the product class title, isbn, and author to required
+--rebuild, succeeded
+--Add-Migration InitialCreate, remind that there is a _InitialCreate.Designer.cs existed
+--delete the migration file,
+--Add-Migration InitialCreate, succeeded
+--Update-Database, succeeded
+--check Product.db in SQL explorer, the field title, author, and ISBN have been changed to not null
+--commit the changes and push to github
 
 
 
