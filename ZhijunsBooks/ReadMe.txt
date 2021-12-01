@@ -217,6 +217,11 @@ CategoryController.cs
 --add a ProductVM.cs file under .Models/ViewModels
 --save and build successfully, commit and push to github
 
+2115 work on ProductController.cs
+--open the file.
+--modify the codes in the ProductController.cs
+--build it, succeeded
+
 
 
 

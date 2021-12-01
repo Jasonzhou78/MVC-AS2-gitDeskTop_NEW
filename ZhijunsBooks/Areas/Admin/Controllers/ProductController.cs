@@ -6,6 +6,8 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using ZhijunsBooks.Models.ViewModels;
+using Microsoft.AspNetCore.Mvc.Rendering;
 
 namespace ZhijunsBooks.Areas.Admin.Controllers
 {
@@ -22,6 +24,36 @@ namespace ZhijunsBooks.Areas.Admin.Controllers
         public IActionResult Index()
         {
             return View();
+        }
+
+
+
+
+
+        public IActionResult Upsert(int? id)  //get action method for Upsert
+        {
+            ProductVM productVM = new ProductVM()
+            {
+                Product = new Product(),
+                CategoryList = _unitOfWork.Category.GetAll().Select(i => new SelectListItem
+                {
+                    Text = i.Name,
+                    Value = i.Id.ToString()
+                }),
+            };   //using ZhijunsBooks.Models
+            if (id == null)
+            {
+                //this is for create
+                return View(productVM);
+            }
+            //this is for the edit
+            productVM.Product = _unitOfWork.Product.Get(id.GetValueOrDefault());
+            if (productVM.Product == null)
+            {
+                return NotFound();
+            }
+            return View(productVM);
+
         }
     }
 }
