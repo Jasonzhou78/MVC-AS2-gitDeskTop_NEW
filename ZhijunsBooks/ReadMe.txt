@@ -235,7 +235,10 @@ CategoryController.cs
 --add Upsert.cshtml to Product folder in Views and modify the file according lecture slides
 (copy code from FILES and added the rest of code from slides)
 --Built it, succeeded, commit it, push to github
---
+
+0015
+--come back to ProductController.cs
+--modify it, rebuild, succeeded
 
 
 

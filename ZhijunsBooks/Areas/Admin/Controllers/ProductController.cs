@@ -30,31 +30,51 @@ namespace ZhijunsBooks.Areas.Admin.Controllers
 
 
 
-        //public IActionResult Upsert(int? id)  //get action method for Upsert
-        //{
-        //    ProductVM productVM = new ProductVM()
-        //    {
-        //        Product = new Product(),
-        //        CategoryList = _unitOfWork.Category.GetAll().Select(i => new SelectListItem
-        //        {
-        //            Text = i.Name,
-        //            Value = i.Id.ToString()
-        //        }),
-        //    };   //using ZhijunsBooks.Models
-        //    if (id == null)
-        //    {
-        //        //this is for create
-        //        return View(productVM);
-        //    }
-        //    //this is for the edit
-        //    productVM.Product = _unitOfWork.Product.Get(id.GetValueOrDefault());
-        //    if (productVM.Product == null)
-        //    {
-        //        return NotFound();
-        //    }
-        //    return View(productVM);
+        public IActionResult Upsert(int? id)  //get action method for Upsert
+        {
+            ProductVM productVM = new ProductVM()
+            {
+                Product = new Product(),
+                CategoryList = _unitOfWork.Category.GetAll().Select(i => new SelectListItem
+                {
+                    Text = i.Name,
+                    Value = i.Id.ToString()
+                }),
+            };   //using ZhijunsBooks.Models
+            if (id == null)
+            {
+                //this is for create
+                return View(productVM);
+            }
+            //this is for the edit
+            productVM.Product = _unitOfWork.Product.Get(id.GetValueOrDefault());
+            if (productVM.Product == null)
+            {
+                return NotFound();
+            }
+            return View(productVM);
+        }
+        //use HTTP POST to defien the post-action method
+    [HttpPost]
+    [ValidateAntiForgeryToken]
+    public IActionResult Upsert(Product product)
+    {
+    if (ModelState.IsValid)
+    {
+         if(product.Id == 0)
+             { 
+              _unitOfWork.Product.Add(product);
+            }
+            else
+           {
+            _unitOfWork.Product.Update(product);
+             }
+          _unitOfWork.Save();
+           return RedirectToAction(nameof(Index));  //to see all the categories
+       }
+       return View(product);
+    }
 
-        //}
         //API calls here
         #region API CALLS
         [HttpGet]
