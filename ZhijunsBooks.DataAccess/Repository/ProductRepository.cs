@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using System.Text;
 using ZhijunsBooks.DataAccess.Data;
 using System.Linq;
+using ZhijunBooks.Models;
 
 namespace ZhijunsBooks.DataAccess.Repository
 {

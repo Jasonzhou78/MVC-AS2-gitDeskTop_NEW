@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 using System.IO;
 using ZhijunsBooks.Models.ViewModels;
 using Microsoft.AspNetCore.Mvc.Rendering;
+using ZhijunBooks.Models;
 
 namespace ZhijunsBooks.Areas.Admin.Controllers
 {

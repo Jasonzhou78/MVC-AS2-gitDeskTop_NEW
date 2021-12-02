@@ -2292,3 +2292,10 @@ E:\MVC-AS2-NEW - AfterComparingStandard\ZhijunsBooks\obj\Debug\net5.0\ZhijunsBoo
 E:\MVC-AS2-NEW - AfterComparingStandard\ZhijunsBooks\obj\Debug\net5.0\ZhijunsBooks.Views.pdb
 E:\MVC-AS2-NEW - AfterComparingStandard\ZhijunsBooks\obj\Debug\net5.0\ZhijunsBooks.csproj.CopyComplete
 E:\MVC-AS2-NEW - AfterComparingStandard\ZhijunsBooks\obj\Debug\net5.0\ZhijunsBooks.genruntimeconfig.cache
+C:\Users\W0728193\Source\Repos\MVC-AS2-gitDeskTop_NEW\ZhijunsBooks\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\W0728193\Source\Repos\MVC-AS2-gitDeskTop_NEW\ZhijunsBooks\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\W0728193\Source\Repos\MVC-AS2-gitDeskTop_NEW\ZhijunsBooks\obj\Debug\net5.0\Razor\Areas\Admin\Views\CoverType\Index.cshtml.g.cs
+C:\Users\W0728193\Source\Repos\MVC-AS2-gitDeskTop_NEW\ZhijunsBooks\obj\Debug\net5.0\Razor\Areas\Admin\Views\CoverType\Upsert.cshtml.g.cs
+C:\Users\W0728193\Source\Repos\MVC-AS2-gitDeskTop_NEW\ZhijunsBooks\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Index.cshtml.g.cs
+C:\Users\W0728193\Source\Repos\MVC-AS2-gitDeskTop_NEW\ZhijunsBooks\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Upsert.cshtml.g.cs
+C:\Users\W0728193\Source\Repos\MVC-AS2-gitDeskTop_NEW\ZhijunsBooks\obj\Debug\net5.0\Razor\Views\Shared\_EditAndBackToListButton.cshtml.g.cs
