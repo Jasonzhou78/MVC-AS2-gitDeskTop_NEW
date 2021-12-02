@@ -245,6 +245,10 @@ CategoryController.cs
 --comparing area folder
 --make changes for file ProductController.cs, all files in controllers and views
 --my Area/Admin/Views/Category/Index.cshtml is different, keep my version
+--upadate Upsert file in Area/Admin/Views/Category/;
+--update Index file in Area/Admin/Views/CoverType/
+--update Upsert file in Area/Admin/Views/CoverType/
+--update Upsert and Index file in Area/Admin/Views/CoverType/ (but Upsert file is different, keep it)
 
 
 
