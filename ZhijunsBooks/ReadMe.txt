@@ -249,7 +249,7 @@ CategoryController.cs
 --update Index file in Area/Admin/Views/CoverType/
 --update Upsert file in Area/Admin/Views/CoverType/
 --update Upsert and Index file in Area/Admin/Views/CoverType/ (but Upsert file is different, keep it)
-
+--update Upsert file in Area/Admin/Views/_viewStart.cshtml
 
 
 
