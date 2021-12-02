@@ -6,6 +6,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using System.IO;
 using ZhijunsBooks.Models.ViewModels;
 using Microsoft.AspNetCore.Mvc.Rendering;
 
@@ -16,19 +17,17 @@ namespace ZhijunsBooks.Areas.Admin.Controllers
     {
         private readonly IUnitOfWork _unitOfWork;
         private readonly IWebHostEnvironment _hostEnvironment; //to upload images on the server inside wwwroot
+        
         public ProductController(IUnitOfWork unitOfWork, IWebHostEnvironment hostEnvironment)
         {
             _unitOfWork = unitOfWork;
             _hostEnvironment = hostEnvironment;
         }
+        
         public IActionResult Index()
         {
             return View();
         }
-
-
-
-
 
         public IActionResult Upsert(int? id)  //get action method for Upsert
         {
@@ -40,7 +39,12 @@ namespace ZhijunsBooks.Areas.Admin.Controllers
                     Text = i.Name,
                     Value = i.Id.ToString()
                 }),
-            };   //using ZhijunsBooks.Models
+                CoverTypeList = _unitOfWork.CoverType.GetAll().Select(i => new SelectListItem
+                {
+                    Text = i.Name,
+                    Value = i.Id.ToString()
+                }),
+            };  
             if (id == null)
             {
                 //this is for create
