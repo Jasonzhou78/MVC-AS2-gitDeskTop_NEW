@@ -12,19 +12,17 @@ namespace ZhijunsBooks.Areas.Admin.Controllers
     public class CategoryController : Controller
     {
         private readonly IUnitOfWork _unitOfWork;
+        
         public CategoryController(IUnitOfWork unitOfWork)
         {
             _unitOfWork = unitOfWork;
         }
 
-       //public CategoryController()
-       // {
-       // }
-
         public IActionResult Index()
         {
             return View();
         }
+        
         public IActionResult Upsert(int? id)   //action method for Upsert
         {
             Category category = new Category(); //using ZhijunsBook.Models
@@ -39,7 +37,7 @@ namespace ZhijunsBooks.Areas.Admin.Controllers
             {
                 return NotFound();
             }
-            return View();
+            return View(category);
         }
         //use HTTP POST to define the post-action method
         #region API CALLS
