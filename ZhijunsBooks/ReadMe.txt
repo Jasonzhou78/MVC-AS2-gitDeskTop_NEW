@@ -250,6 +250,7 @@ comparing area folder
 --update Upsert file in Area/Admin/Views/CoverType/
 --update Upsert and Index file in Area/Admin/Views/CoverType/ (but Upsert file is different, keep it)
 --update Upsert file in Area/Admin/Views/_viewStart.cshtml
+--update the product class with addition of more items to the class, but found out that those items are not required. I deleted those items.
 
 
 
