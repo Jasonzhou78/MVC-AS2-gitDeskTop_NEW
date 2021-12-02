@@ -1,7 +1,7 @@
 using ZhijunsBooks.DataAccess.Repository.IRepository;
+using System;
 using ZhijunsBooks.Utility;
 using Dapper;
-using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -14,17 +14,20 @@ namespace ZhijunsBooks.Areas.Admin.Controllers
     public class CoverTypeController : Controller
     {
         private readonly IUnitOfWork _unitOfWork;
-        
+
         public CoverTypeController(IUnitOfWork unitOfWork)
         {
             _unitOfWork = unitOfWork;
         }
 
+        //public CoverTypeController()
+        // {
+        // }
+
         public IActionResult Index()
         {
             return View();
         }
-        
         public IActionResult Upsert(int? id)   //action method for Upsert
         {
             CoverType coverType = new CoverType(); //using ZhijunsBook.Models
@@ -34,33 +37,28 @@ namespace ZhijunsBooks.Areas.Admin.Controllers
                 return View(coverType);
             }
             //this for the edit
-            var parameter = new DynamicParameters();
-            parameter.Add("@Id",id);
-            coverType = _unitOfWork.SP_Call.OneRecord<CoverType>(SD.Proc_CoverType_Get, parameter);
+            coverType = _unitOfWork.CoverType.Get(id.GetValueOrDefault());
             if (coverType == null)
             {
                 return NotFound();
             }
             return View(coverType);
         }
-        //use HTTP POST to define the post-action method 
+        //use HTTP POST to define the post-action method
+        #region API CALLS
         [HttpPost]
         [ValidateAntiForgeryToken]
         public IActionResult Upsert(CoverType coverType)
         {
             if (ModelState.IsValid) //checks all validation in the model(e.g. Name required) to increase security
             {
-                var parameter = new DynamicParameters();
-                parameter.Add("@Name", coverType.Name)
-                
                 if (coverType.Id == 0)
                 {
-                    _unitOfWork.SP_Call.Execute(SD.Proc_CoverType_Create, parameter);
+                    _unitOfWork.CoverType.Add(coverType);
                 }
                 else
                 {
-                    parameter.Add("@Id", coverType.Id);
-                    _unitOfWork.SP_Call.Execute(SD.Proc_CoverType_Update, parameter);
+                    _unitOfWork.CoverType.Update(coverType);
                 }
                 _unitOfWork.Save();
                 return RedirectToAction(nameof(Index)); // to see all the covertypes
@@ -68,29 +66,7 @@ namespace ZhijunsBooks.Areas.Admin.Controllers
             return View(coverType);
         }
         //API calls here
-        #region API CALLS
-
-        public IActionResult GetAll()
-        {
-            var allObj = _unitOfWork.SP_Call.List<CoverType>(SD.Proc_CoverType_GetAll, null);
-            return Json(new { data = allObj });
-        }
-
-        [HttpDelete]
-        public IActionResult Delete(int id)
-        {
-            var parameter = new DynamicParameters();
-            parameter.Add("@Id", id);
-            var objFromDb = _unitOfWork.SP_Call.OneRecord<CoverType>(SD.Proc_CoverType_Get, parameter);
-            if (objFromDb == null)
-            {
-                return Json(new { success = false, message = "Error while deleting" });
-            }
-            _unitOfWork.SP_Call.Execute(SD.Proc_CoverType_Delete, parameter);
-            _unitOfWork.Save();
-            return Json(new { success = true, message = "Delete Successful" });
-        }
-
         #endregion    
     }
 }
+

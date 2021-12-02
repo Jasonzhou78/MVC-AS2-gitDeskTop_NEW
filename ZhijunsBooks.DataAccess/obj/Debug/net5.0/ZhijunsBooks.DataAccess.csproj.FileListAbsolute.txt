@@ -100,3 +100,20 @@ E:\MVC-AS2-NEW\ZhijunsBooks.DataAccess\obj\Debug\net5.0\ZhijunsBooks.DataAccess.
 E:\MVC-AS2-NEW\ZhijunsBooks.DataAccess\obj\Debug\net5.0\ZhijunsBooks.DataAccess.dll
 E:\MVC-AS2-NEW\ZhijunsBooks.DataAccess\obj\Debug\net5.0\ref\ZhijunsBooks.DataAccess.dll
 E:\MVC-AS2-NEW\ZhijunsBooks.DataAccess\obj\Debug\net5.0\ZhijunsBooks.DataAccess.pdb
+E:\MVC-AS2-NEW - AfterComparingStandard\ZhijunsBooks.DataAccess\bin\Debug\net5.0\ZhijunsBooks.DataAccess.deps.json
+E:\MVC-AS2-NEW - AfterComparingStandard\ZhijunsBooks.DataAccess\bin\Debug\net5.0\ZhijunsBooks.DataAccess.dll
+E:\MVC-AS2-NEW - AfterComparingStandard\ZhijunsBooks.DataAccess\bin\Debug\net5.0\ref\ZhijunsBooks.DataAccess.dll
+E:\MVC-AS2-NEW - AfterComparingStandard\ZhijunsBooks.DataAccess\bin\Debug\net5.0\ZhijunsBooks.DataAccess.pdb
+E:\MVC-AS2-NEW - AfterComparingStandard\ZhijunsBooks.DataAccess\bin\Debug\net5.0\ZhijunsBooks.Models.dll
+E:\MVC-AS2-NEW - AfterComparingStandard\ZhijunsBooks.DataAccess\bin\Debug\net5.0\ZhijunsBooks.Utility.dll
+E:\MVC-AS2-NEW - AfterComparingStandard\ZhijunsBooks.DataAccess\bin\Debug\net5.0\ZhijunsBooks.Models.pdb
+E:\MVC-AS2-NEW - AfterComparingStandard\ZhijunsBooks.DataAccess\bin\Debug\net5.0\ZhijunsBooks.Utility.pdb
+E:\MVC-AS2-NEW - AfterComparingStandard\ZhijunsBooks.DataAccess\obj\Debug\net5.0\ZhijunsBooks.DataAccess.csproj.AssemblyReference.cache
+E:\MVC-AS2-NEW - AfterComparingStandard\ZhijunsBooks.DataAccess\obj\Debug\net5.0\ZhijunsBooks.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\MVC-AS2-NEW - AfterComparingStandard\ZhijunsBooks.DataAccess\obj\Debug\net5.0\ZhijunsBooks.DataAccess.AssemblyInfoInputs.cache
+E:\MVC-AS2-NEW - AfterComparingStandard\ZhijunsBooks.DataAccess\obj\Debug\net5.0\ZhijunsBooks.DataAccess.AssemblyInfo.cs
+E:\MVC-AS2-NEW - AfterComparingStandard\ZhijunsBooks.DataAccess\obj\Debug\net5.0\ZhijunsBooks.DataAccess.csproj.CoreCompileInputs.cache
+E:\MVC-AS2-NEW - AfterComparingStandard\ZhijunsBooks.DataAccess\obj\Debug\net5.0\ZhijunsBooks.DataAccess.csproj.CopyComplete
+E:\MVC-AS2-NEW - AfterComparingStandard\ZhijunsBooks.DataAccess\obj\Debug\net5.0\ZhijunsBooks.DataAccess.dll
+E:\MVC-AS2-NEW - AfterComparingStandard\ZhijunsBooks.DataAccess\obj\Debug\net5.0\ref\ZhijunsBooks.DataAccess.dll
+E:\MVC-AS2-NEW - AfterComparingStandard\ZhijunsBooks.DataAccess\obj\Debug\net5.0\ZhijunsBooks.DataAccess.pdb
