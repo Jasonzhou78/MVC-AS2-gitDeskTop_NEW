@@ -8,13 +8,13 @@
 <form method="post">
     <div class="row p-3 border">
         <div asp-validation-summary="ModelOnly" class="text-danger"></div>
-         @if(Model.Id != null)
+         @if(Model.Id != 0)
          {
              //edit
              title = "Edit Category";
          }
         <div class="col-12 border-bottom">
-            <h2 class="text-primary">TITLE</h2>
+            <h2 class="text-primary">@title</h2>
         </div>
         <div class="col-8 pt-4">
             <div class="form-group row">
@@ -42,6 +42,6 @@
     </div>
 </form>
 
-@section Script {
+@section Scripts {
 <partial name="_ValidationScriptsPartial" />
 }

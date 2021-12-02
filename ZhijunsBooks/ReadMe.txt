@@ -242,7 +242,9 @@ CategoryController.cs
 --
 20211201
 2100  comparing with standard file
---comparing
+--comparing area folder
+--make changes for file ProductController.cs, all files in controllers and views
+--my Area/Admin/Views/Category/Index.cshtml is different, keep my version
 
 
 
