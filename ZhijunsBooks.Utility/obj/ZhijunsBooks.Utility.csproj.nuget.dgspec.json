@@ -1,25 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "E:\\MVC-AS2-NEW - AfterComparingStandard\\ZhijunsBooks.Utility\\ZhijunsBooks.Utility.csproj": {}
+    "C:\\Users\\W0728193\\Source\\Repos\\MVC-AS2-gitDeskTop_NEW\\ZhijunsBooks.Utility\\ZhijunsBooks.Utility.csproj": {}
   },
   "projects": {
-    "E:\\MVC-AS2-NEW - AfterComparingStandard\\ZhijunsBooks.Utility\\ZhijunsBooks.Utility.csproj": {
+    "C:\\Users\\W0728193\\Source\\Repos\\MVC-AS2-gitDeskTop_NEW\\ZhijunsBooks.Utility\\ZhijunsBooks.Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\MVC-AS2-NEW - AfterComparingStandard\\ZhijunsBooks.Utility\\ZhijunsBooks.Utility.csproj",
+        "projectUniqueName": "C:\\Users\\W0728193\\Source\\Repos\\MVC-AS2-gitDeskTop_NEW\\ZhijunsBooks.Utility\\ZhijunsBooks.Utility.csproj",
         "projectName": "ZhijunsBooks.Utility",
-        "projectPath": "E:\\MVC-AS2-NEW - AfterComparingStandard\\ZhijunsBooks.Utility\\ZhijunsBooks.Utility.csproj",
-        "packagesPath": "C:\\Users\\zhouz\\.nuget\\packages\\",
-        "outputPath": "E:\\MVC-AS2-NEW - AfterComparingStandard\\ZhijunsBooks.Utility\\obj\\",
+        "projectPath": "C:\\Users\\W0728193\\Source\\Repos\\MVC-AS2-gitDeskTop_NEW\\ZhijunsBooks.Utility\\ZhijunsBooks.Utility.csproj",
+        "packagesPath": "C:\\Users\\W0728193\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\W0728193\\Source\\Repos\\MVC-AS2-gitDeskTop_NEW\\ZhijunsBooks.Utility\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\zhouz\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\W0728193\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -60,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
