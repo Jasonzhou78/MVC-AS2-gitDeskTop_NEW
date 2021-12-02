@@ -1,4 +1,6 @@
-﻿using ZhijunsBooks.DataAccess.Repository.IRepository;
+using ZhijunsBooks.DataAccess.Repository.IRepository;
+using ZhijunsBooks.Utility;
+using Dapper;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -12,19 +14,17 @@ namespace ZhijunsBooks.Areas.Admin.Controllers
     public class CoverTypeController : Controller
     {
         private readonly IUnitOfWork _unitOfWork;
+        
         public CoverTypeController(IUnitOfWork unitOfWork)
         {
             _unitOfWork = unitOfWork;
         }
 
-        //public CoverTypeController()
-        // {
-        // }
-
         public IActionResult Index()
         {
             return View();
         }
+        
         public IActionResult Upsert(int? id)   //action method for Upsert
         {
             CoverType coverType = new CoverType(); //using ZhijunsBook.Models
@@ -34,7 +34,9 @@ namespace ZhijunsBooks.Areas.Admin.Controllers
                 return View(coverType);
             }
             //this for the edit
-            coverType = _unitOfWork.CoverType.Get(id.GetValueOrDefault());
+            var parameter = new DynamicParameters();
+            parameter.Add("@Id",id);
+            coverType = _unitOfWork.SP_Call.OneRecord<CoverType>(SD.Proc_CoverType_Get, parameter);
             if (coverType == null)
             {
                 return NotFound();
