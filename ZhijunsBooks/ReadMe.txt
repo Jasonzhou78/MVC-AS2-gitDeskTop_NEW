@@ -240,7 +240,9 @@ CategoryController.cs
 --come back to ProductController.cs
 --modify it, rebuild, succeeded
 --
-
+20211201
+2100  comparing with standard file
+--comparing
 
 
 

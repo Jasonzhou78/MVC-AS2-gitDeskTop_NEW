@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pOMWQ1r3OlQ3XOKteOYxiQO8pwhrmmtjPd2Nx5PTMCmL0ecMqraZ7ORKBh+QkYVEZpUa429fu4jiMyI032TJ3g==",
+  "dgSpecHash": "ieolBLMO6bNd+G0mmBoeeNTvIheTQbsRvVeQCb3/3817RJwTeiJQCroSxqv9P4kCEhwziFvOplA52gXlwa02ag==",
   "success": true,
-  "projectFilePath": "E:\\MVC-AS2-NEW\\ZhijunsBooks.DataAccess\\ZhijunsBooks.DataAccess.csproj",
+  "projectFilePath": "E:\\MVC-AS2-NEW - AfterComparingStandard\\ZhijunsBooks.DataAccess\\ZhijunsBooks.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zhouz\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\zhouz\\.nuget\\packages\\microsoft.aspnetcore.antiforgery\\2.2.0\\microsoft.aspnetcore.antiforgery.2.2.0.nupkg.sha512",

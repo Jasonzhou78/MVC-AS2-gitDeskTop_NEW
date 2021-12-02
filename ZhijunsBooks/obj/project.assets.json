@@ -10191,11 +10191,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\MVC-AS2-NEW\\ZhijunsBooks\\ZhijunsBooks.csproj",
+      "projectUniqueName": "E:\\MVC-AS2-NEW - AfterComparingStandard\\ZhijunsBooks\\ZhijunsBooks.csproj",
       "projectName": "ZhijunsBooks",
-      "projectPath": "E:\\MVC-AS2-NEW\\ZhijunsBooks\\ZhijunsBooks.csproj",
+      "projectPath": "E:\\MVC-AS2-NEW - AfterComparingStandard\\ZhijunsBooks\\ZhijunsBooks.csproj",
       "packagesPath": "C:\\Users\\zhouz\\.nuget\\packages\\",
-      "outputPath": "E:\\MVC-AS2-NEW\\ZhijunsBooks\\obj\\",
+      "outputPath": "E:\\MVC-AS2-NEW - AfterComparingStandard\\ZhijunsBooks\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -10218,14 +10218,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "E:\\MVC-AS2-NEW\\ZhijunsBooks.DataAccess\\ZhijunsBooks.DataAccess.csproj": {
-              "projectPath": "E:\\MVC-AS2-NEW\\ZhijunsBooks.DataAccess\\ZhijunsBooks.DataAccess.csproj"
+            "E:\\MVC-AS2-NEW - AfterComparingStandard\\ZhijunsBooks.DataAccess\\ZhijunsBooks.DataAccess.csproj": {
+              "projectPath": "E:\\MVC-AS2-NEW - AfterComparingStandard\\ZhijunsBooks.DataAccess\\ZhijunsBooks.DataAccess.csproj"
             },
-            "E:\\MVC-AS2-NEW\\ZhijunsBooks.Models\\ZhijunsBooks.Models.csproj": {
-              "projectPath": "E:\\MVC-AS2-NEW\\ZhijunsBooks.Models\\ZhijunsBooks.Models.csproj"
+            "E:\\MVC-AS2-NEW - AfterComparingStandard\\ZhijunsBooks.Models\\ZhijunsBooks.Models.csproj": {
+              "projectPath": "E:\\MVC-AS2-NEW - AfterComparingStandard\\ZhijunsBooks.Models\\ZhijunsBooks.Models.csproj"
             },
-            "E:\\MVC-AS2-NEW\\ZhijunsBooks.Utility\\ZhijunsBooks.Utility.csproj": {
-              "projectPath": "E:\\MVC-AS2-NEW\\ZhijunsBooks.Utility\\ZhijunsBooks.Utility.csproj"
+            "E:\\MVC-AS2-NEW - AfterComparingStandard\\ZhijunsBooks.Utility\\ZhijunsBooks.Utility.csproj": {
+              "projectPath": "E:\\MVC-AS2-NEW - AfterComparingStandard\\ZhijunsBooks.Utility\\ZhijunsBooks.Utility.csproj"
             }
           }
         }

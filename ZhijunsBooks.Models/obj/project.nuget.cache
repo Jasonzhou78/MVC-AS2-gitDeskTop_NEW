@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7fNkyilW9Gg//aIBSZfTBp3S9TVuGsdLsagFI4vm4LJz53Iusens6ukRD2bYc1FhXvnzw7y2HWeisMtiLO/rNw==",
+  "dgSpecHash": "z1tUVyqqIpOH1b8iGMXGzno7k0WsRUc2zEsgsRc0o1w3o2hymHARolbfcsZIeLfQxqYP1bCKKK62TISoNnPVjg==",
   "success": true,
-  "projectFilePath": "E:\\MVC-AS2-NEW\\ZhijunsBooks.Models\\ZhijunsBooks.Models.csproj",
+  "projectFilePath": "E:\\MVC-AS2-NEW - AfterComparingStandard\\ZhijunsBooks.Models\\ZhijunsBooks.Models.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zhouz\\.nuget\\packages\\microsoft.aspnetcore.antiforgery\\2.2.0\\microsoft.aspnetcore.antiforgery.2.2.0.nupkg.sha512",
     "C:\\Users\\zhouz\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

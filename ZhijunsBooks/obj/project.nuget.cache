@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QTzEaGQHCpQ0G9hy3VXih40HpCTT78oF3Az/Hqy/UZYl06JHlARcAP9i9g4Ps3QOYqd0rqqaVznyrDx3Sx+PVg==",
+  "dgSpecHash": "46N6nMvf4QUMlRvZ7XKHWBHsvOos0y3Nj6eVrqw4JKuJwndoWMlTdcvzShE/wqPWa80ltKApNJzWXtYh+RdRLQ==",
   "success": true,
-  "projectFilePath": "E:\\MVC-AS2-NEW\\ZhijunsBooks\\ZhijunsBooks.csproj",
+  "projectFilePath": "E:\\MVC-AS2-NEW - AfterComparingStandard\\ZhijunsBooks\\ZhijunsBooks.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zhouz\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\zhouz\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
