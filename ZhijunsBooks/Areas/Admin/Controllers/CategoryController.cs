@@ -40,7 +40,6 @@ namespace ZhijunsBooks.Areas.Admin.Controllers
             return View(category);
         }
         //use HTTP POST to define the post-action method
-        #region API CALLS
         [HttpPost]
         [ValidateAntiForgeryToken]
         public IActionResult Upsert(Category category)
@@ -60,7 +59,28 @@ namespace ZhijunsBooks.Areas.Admin.Controllers
             }
             return View(category);
         }
-        //API calls here
-        #endregion    
+        
+        #region API CALLS
+        [HttpGet]
+        public IActionResult GetAll()
+        {
+            var allObj = _unitOfWork.Category.GetAll();
+            return Json(new { data = allObj });
+        }
+
+        [HttpDelete]
+        public IActionResult Delete(int id)
+        {
+            var objFromDb = _unitOfWork.Category.Get(id);
+            if (objFromDb == null)
+            {
+                return Json(new { success = false, message = "Error while deleting" });
+            }
+            _unitOfWork.Category.Remove(objFromDb);
+            _unitOfWork.Save();
+            return Json(new { success = true, message = "Delete Successful" });
+        }
+
+        #endregion
     }
 }
