@@ -5,8 +5,9 @@ using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using ZhijunsBooks.Models;
 
-namespace ZhijunsBooks.Models
+namespace ZhijunBooks.Models
 {
     public class Product
     {
@@ -22,6 +23,15 @@ namespace ZhijunsBooks.Models
         [Required]
         [Range(1, 10000)]
         public double ListPrice { get; set; }
+        [Required]
+        [Range(1, 10000)]
+        public double Price { get; set; }
+        [Required]
+        [Range(1, 10000)]
+        public double Price50 { get; set; }
+        [Required]
+        [Range(1, 10000)]
+        public double Price100 { get; set; }
         public string ImageUrl { get; set; }
         [Required]
         public int CategoryId { get; set; }
@@ -29,8 +39,7 @@ namespace ZhijunsBooks.Models
         public Category Category { get; set; }
         [Required]
         public int CoverTypeId { get; set; }
-        [ForeignKey("CategoryId")]
+        [ForeignKey("CoverTypeId")]
         public CoverType CoverType { get; set; }
-
     }
 }

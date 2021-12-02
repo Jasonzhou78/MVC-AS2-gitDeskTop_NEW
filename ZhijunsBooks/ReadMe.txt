@@ -241,8 +241,8 @@ CategoryController.cs
 --modify it, rebuild, succeeded
 --
 20211201
-2100  comparing with standard file
---comparing area folder
+2100  comparing with standard file on github
+comparing area folder
 --make changes for file ProductController.cs, all files in controllers and views
 --my Area/Admin/Views/Category/Index.cshtml is different, keep my version
 --upadate Upsert file in Area/Admin/Views/Category/;
