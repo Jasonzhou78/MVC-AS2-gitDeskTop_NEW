@@ -70,3 +70,15 @@ E:\MVC-AS2-NEW - AfterComparingStandard\ZhijunsBooks.Utility\obj\Debug\net5.0\Zh
 E:\MVC-AS2-NEW - AfterComparingStandard\ZhijunsBooks.Utility\obj\Debug\net5.0\ZhijunsBooks.Utility.dll
 E:\MVC-AS2-NEW - AfterComparingStandard\ZhijunsBooks.Utility\obj\Debug\net5.0\ref\ZhijunsBooks.Utility.dll
 E:\MVC-AS2-NEW - AfterComparingStandard\ZhijunsBooks.Utility\obj\Debug\net5.0\ZhijunsBooks.Utility.pdb
+C:\Users\W0728193\source\repos\MVC-AS2-NEW\ZhijunsBooks.Utility\bin\Debug\net5.0\ZhijunsBooks.Utility.deps.json
+C:\Users\W0728193\source\repos\MVC-AS2-NEW\ZhijunsBooks.Utility\bin\Debug\net5.0\ZhijunsBooks.Utility.dll
+C:\Users\W0728193\source\repos\MVC-AS2-NEW\ZhijunsBooks.Utility\bin\Debug\net5.0\ref\ZhijunsBooks.Utility.dll
+C:\Users\W0728193\source\repos\MVC-AS2-NEW\ZhijunsBooks.Utility\bin\Debug\net5.0\ZhijunsBooks.Utility.pdb
+C:\Users\W0728193\source\repos\MVC-AS2-NEW\ZhijunsBooks.Utility\obj\Debug\net5.0\ZhijunsBooks.Utility.csproj.AssemblyReference.cache
+C:\Users\W0728193\source\repos\MVC-AS2-NEW\ZhijunsBooks.Utility\obj\Debug\net5.0\ZhijunsBooks.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W0728193\source\repos\MVC-AS2-NEW\ZhijunsBooks.Utility\obj\Debug\net5.0\ZhijunsBooks.Utility.AssemblyInfoInputs.cache
+C:\Users\W0728193\source\repos\MVC-AS2-NEW\ZhijunsBooks.Utility\obj\Debug\net5.0\ZhijunsBooks.Utility.AssemblyInfo.cs
+C:\Users\W0728193\source\repos\MVC-AS2-NEW\ZhijunsBooks.Utility\obj\Debug\net5.0\ZhijunsBooks.Utility.csproj.CoreCompileInputs.cache
+C:\Users\W0728193\source\repos\MVC-AS2-NEW\ZhijunsBooks.Utility\obj\Debug\net5.0\ZhijunsBooks.Utility.dll
+C:\Users\W0728193\source\repos\MVC-AS2-NEW\ZhijunsBooks.Utility\obj\Debug\net5.0\ref\ZhijunsBooks.Utility.dll
+C:\Users\W0728193\source\repos\MVC-AS2-NEW\ZhijunsBooks.Utility\obj\Debug\net5.0\ZhijunsBooks.Utility.pdb

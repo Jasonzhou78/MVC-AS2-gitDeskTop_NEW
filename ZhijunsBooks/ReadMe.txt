@@ -252,6 +252,17 @@ comparing area folder
 --update Upsert file in Area/Admin/Views/_viewStart.cshtml
 --update the product class with addition of more items to the class, but found out that those items are not required. I deleted those items.
 
+20211203
+1300
+--implement on webpage
+--click category, error: DataTables warning: table id=tblData - Ajax error. For more information about this error, please see http://datatables.net/tn/7
+--tried to debug the error, checked the error document, but still no clue
+
+2021-12-6
+1422
+--clone to local computer from github
+--
+
 
 
 
