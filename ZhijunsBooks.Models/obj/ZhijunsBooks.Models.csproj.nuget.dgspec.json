@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\W0728193\\Source\\Repos\\MVC-AS2-gitDeskTop_NEW\\ZhijunsBooks.Models\\ZhijunsBooks.Models.csproj": {}
+    "C:\\Users\\W0728193\\source\\repos\\MVC-AS2-NEW\\ZhijunsBooks.Models\\ZhijunsBooks.Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\W0728193\\Source\\Repos\\MVC-AS2-gitDeskTop_NEW\\ZhijunsBooks.Models\\ZhijunsBooks.Models.csproj": {
+    "C:\\Users\\W0728193\\source\\repos\\MVC-AS2-NEW\\ZhijunsBooks.Models\\ZhijunsBooks.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\W0728193\\Source\\Repos\\MVC-AS2-gitDeskTop_NEW\\ZhijunsBooks.Models\\ZhijunsBooks.Models.csproj",
+        "projectUniqueName": "C:\\Users\\W0728193\\source\\repos\\MVC-AS2-NEW\\ZhijunsBooks.Models\\ZhijunsBooks.Models.csproj",
         "projectName": "ZhijunsBooks.Models",
-        "projectPath": "C:\\Users\\W0728193\\Source\\Repos\\MVC-AS2-gitDeskTop_NEW\\ZhijunsBooks.Models\\ZhijunsBooks.Models.csproj",
+        "projectPath": "C:\\Users\\W0728193\\source\\repos\\MVC-AS2-NEW\\ZhijunsBooks.Models\\ZhijunsBooks.Models.csproj",
         "packagesPath": "C:\\Users\\W0728193\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\W0728193\\Source\\Repos\\MVC-AS2-gitDeskTop_NEW\\ZhijunsBooks.Models\\obj\\",
+        "outputPath": "C:\\Users\\W0728193\\source\\repos\\MVC-AS2-NEW\\ZhijunsBooks.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
